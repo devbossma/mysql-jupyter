@@ -1,21 +1,27 @@
 # #AraBigData
-Repo containing collaterals of videos in my Youtube channel  
-Files will be uploaded as I finish each video
+Repo containing collaterals of ahmed-sami's videos in his Youtube channel  
+
 
 ***
 
-#### **My YouTube Channel**
+#### **Ahmed sami's YouTube Channel**
 [Big Data بالعربي](https://www.youtube.com/channel/UCFEnFy6vRzxYXslnY6mEweQ)  
 
-#### My Linkedin Profile
+#### Ahmed sami's Linkedin Profile
 [Ahmed Sami](https://www.linkedin.com/in/ahmed-sami-a173138/)  
 ***
   
-[Support me on Patreon](https://www.patreon.com/user?u=43417528)  
-[Support on Paypal](https://www.paypal.com/paypalme/ahmedsami1976)
+[Support Ahmed sami on Patreon](https://www.patreon.com/user?u=43417528)  
+[Support Ahmed sami Paypal](https://www.paypal.com/paypalme/ahmedsami1976)
 
 ***
   
-My Email Addresses  
+Ahmed sami's Email Addresses  
 <ahmed.sami@yahoo.com>  
 <ahmed.samy@gmail.com>
+
+My Email Address  
+<ysaber201@gmail.com>  
+
+
+
